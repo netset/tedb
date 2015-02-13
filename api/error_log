@@ -1,0 +1,377 @@
+[14-Oct-2014 12:56:37 Asia/Calcutta] PHP Warning:  require(visitor/public/Slim/Slim.php): failed to open stream: No such file or directory in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 12:56:37 Asia/Calcutta] PHP Fatal error:  require(): Failed opening required 'visitor/public/Slim/Slim.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 12:56:41 Asia/Calcutta] PHP Warning:  require(visitor/public/Slim/Slim.php): failed to open stream: No such file or directory in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 12:56:41 Asia/Calcutta] PHP Fatal error:  require(): Failed opening required 'visitor/public/Slim/Slim.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 12:56:47 Asia/Calcutta] PHP Warning:  require(visitor/public/Slim/Slim.php): failed to open stream: No such file or directory in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 12:56:47 Asia/Calcutta] PHP Fatal error:  require(): Failed opening required 'visitor/public/Slim/Slim.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 14:00:24 Asia/Calcutta] PHP Warning:  require(/visitor/public/Slim/Slim.php): failed to open stream: No such file or directory in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 14:00:24 Asia/Calcutta] PHP Fatal error:  require(): Failed opening required '/visitor/public/Slim/Slim.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 14:00:37 Asia/Calcutta] PHP Warning:  require(public/Slim/Slim.php): failed to open stream: No such file or directory in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[14-Oct-2014 14:00:37 Asia/Calcutta] PHP Fatal error:  require(): Failed opening required 'public/Slim/Slim.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/netsetin/public_html/visitor/public/api/index.php on line 3
+[15-Oct-2014 15:36:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:36:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:36:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:36:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:36:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:37:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:37:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:37:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:37:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:38:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:38:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:38:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:38:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:39:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:39:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:39:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:39:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:40:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:40:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:40:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:40:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:43:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:43:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:44:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:44:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:45:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:46:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:46:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:47:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 69
+[15-Oct-2014 15:47:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:47:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:48:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:48:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:48:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[15-Oct-2014 15:50:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:50:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:50:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:52:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:52:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:53:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:54:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:54:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:54:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:56:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:57:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:57:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 15:59:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:00:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:02:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:03:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:03:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:08:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:10:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:10:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:12:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:19:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:19:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:31:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:31:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:32:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:33:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:33:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:37:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:37:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:38:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:39:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:39:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:45:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:49:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:49:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:50:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:51:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 16:51:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:00:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:05:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:05:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:05:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:05:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:07:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:07:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:07:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:07:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:10:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:10:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:10:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:10:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:10:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:11:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:13:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:13:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:13:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:13:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:13:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:18:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:18:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:21:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:34:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 63
+[15-Oct-2014 17:34:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:35:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:35:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:35:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:35:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:35:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:36:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:36:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:40:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:40:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:40:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:41:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 65
+[15-Oct-2014 17:41:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:41:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:42:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:43:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:44:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:44:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:47:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:47:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:48:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:48:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 64
+[15-Oct-2014 17:51:36 Asia/Calcutta] PHP Fatal error:  Call to undefined function getConnection() in /home/netsetin/public_html/visitor/public/api/index.php on line 20
+[15-Oct-2014 17:52:23 Asia/Calcutta] PHP Fatal error:  Call to undefined function getConnection() in /home/netsetin/public_html/visitor/public/api/index.php on line 20
+[15-Oct-2014 17:56:33 Asia/Calcutta] PHP Fatal error:  Call to undefined function getConnection() in /home/netsetin/public_html/visitor/public/api/index.php on line 22
+[15-Oct-2014 17:57:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[15-Oct-2014 17:58:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/netsetin/public_html/visitor/public/api/index.php on line 68
+[16-Oct-2014 11:45:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:45:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:45:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:45:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:45:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:46:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:46:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:47:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:47:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:47:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:48:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:48:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:49:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:50:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:51:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/visitor/public/api/index.php on line 71
+[16-Oct-2014 11:54:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/visitor/public/api/index.php on line 71
+[16-Oct-2014 11:54:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/visitor/public/api/index.php on line 71
+[16-Oct-2014 11:58:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/visitor/public/api/index.php on line 71
+[16-Oct-2014 11:59:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 11:59:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 12:00:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 12:00:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 12:00:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 66
+[16-Oct-2014 12:01:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:01:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:02:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:02:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:02:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:03:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:03:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:03:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:04:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:04:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:05:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:06:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:06:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:06:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:06:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 67
+[16-Oct-2014 12:09:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/visitor/public/api/index.php on line 80
+[20-Oct-2014 09:06:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:06:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:06:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:06:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:06:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:07:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:10:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:11:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:11:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:11:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:13:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:13:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[20-Oct-2014 09:13:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/visitor/public/api/index.php on line 229
+[20-Oct-2014 10:02:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/visitor/public/api/index.php on line 230
+[20-Oct-2014 10:40:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 200
+[20-Oct-2014 10:48:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 10:49:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 10:57:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 10:57:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:09:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:09:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:10:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:22:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:25:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:38:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:47:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:47:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 199
+[20-Oct-2014 11:58:31 Asia/Calcutta] PHP Fatal error:  Call to a member function getBody() on a non-object in /home/netsetin/public_html/visitor/public/api/index.php on line 177
+[20-Oct-2014 12:06:48 Asia/Calcutta] PHP Fatal error:  Call to a member function getBody() on a non-object in /home/netsetin/public_html/visitor/public/api/index.php on line 177
+[20-Oct-2014 12:12:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[20-Oct-2014 12:12:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[20-Oct-2014 14:24:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 148
+[20-Oct-2014 14:25:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 148
+[20-Oct-2014 14:25:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 148
+[20-Oct-2014 14:25:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 148
+[20-Oct-2014 14:33:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 148
+[20-Oct-2014 14:35:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 14:35:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 14:39:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 14:42:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:07:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:07:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:13:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:27:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:35:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:55:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:55:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 15:56:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:04:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:04:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:04:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:04:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:08:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:23:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:29:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:30:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:50:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 16:58:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:12:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:28:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:34:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:34:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:34:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:38:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:42:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[20-Oct-2014 17:50:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[21-Oct-2014 08:59:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[21-Oct-2014 09:00:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[21-Oct-2014 09:00:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 141
+[21-Oct-2014 11:44:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/netsetin/public_html/visitor/public/api/index.php on line 136
+[21-Oct-2014 18:23:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/netsetin/public_html/visitor/public/api/index.php on line 138
+[26-Oct-2014 14:48:44 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 10:56:58 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 11:09:57 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 11:12:28 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 11:47:29 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 11:47:36 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 11:47:38 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:06:25 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:10:20 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:16:07 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:20:26 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:20:31 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:25:21 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 145
+[27-Oct-2014 12:41:43 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[27-Oct-2014 12:42:06 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[27-Oct-2014 12:42:10 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[27-Oct-2014 12:42:10 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[27-Oct-2014 12:44:26 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[27-Oct-2014 12:49:32 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 146
+[27-Oct-2014 14:02:07 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 14:05:36 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 14:08:42 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:06:52 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:09:29 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:13:04 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:13:18 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:13:18 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:24:47 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:27:12 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:28:26 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:32:11 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:35:22 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:39:12 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 15:39:25 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 16:06:45 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 16:09:44 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 16:27:21 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 16:30:50 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 16:38:45 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 16:41:16 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 17:30:07 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 17:41:33 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 17:51:51 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 18:01:06 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 18:06:24 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[27-Oct-2014 18:08:53 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:31:00 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:32:01 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:34:57 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:35:17 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:35:42 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:37:01 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[28-Oct-2014 11:40:20 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 147
+[29-Oct-2014 09:23:46 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 09:39:23 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 09:43:08 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 09:43:39 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 09:44:46 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 09:47:47 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 09:51:35 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 172
+[29-Oct-2014 12:44:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/netsetin/public_html/visitor/public/api/index.php on line 17
+[29-Oct-2014 12:45:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/netsetin/public_html/visitor/public/api/index.php on line 17
+[29-Oct-2014 12:46:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/netsetin/public_html/visitor/public/api/index.php on line 188
+[29-Oct-2014 14:51:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 162
+[29-Oct-2014 15:15:16 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::lastInsertId() in /home/netsetin/public_html/visitor/public/api/index.php on line 162
+[29-Oct-2014 15:20:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$usern' (T_VARIABLE), expecting '(' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[29-Oct-2014 15:22:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$usern' (T_VARIABLE), expecting '(' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[29-Oct-2014 15:29:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$usern' (T_VARIABLE), expecting '(' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[29-Oct-2014 15:29:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$usern' (T_VARIABLE), expecting '(' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[29-Oct-2014 15:31:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$usern' (T_VARIABLE), expecting '(' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[29-Oct-2014 15:31:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$usern' (T_VARIABLE), expecting '(' in /home/netsetin/public_html/visitor/public/api/index.php on line 197
+[29-Oct-2014 15:38:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/visitor/public/api/index.php on line 203
+[29-Oct-2014 15:38:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/visitor/public/api/index.php on line 203
+[29-Oct-2014 15:38:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/visitor/public/api/index.php on line 203
+[29-Oct-2014 18:02:39 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/netsetin/public_html/visitor/public/api/index.php on line 213
+[29-Oct-2014 18:07:16 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/netsetin/public_html/visitor/public/api/index.php on line 213
+[29-Oct-2014 18:29:31 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/netsetin/public_html/visitor/public/api/index.php on line 213
+[29-Oct-2014 18:30:37 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/netsetin/public_html/visitor/public/api/index.php on line 213
+[01-Nov-2014 09:36:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:37:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:38:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:38:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:38:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:38:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[01-Nov-2014 09:38:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/netsetin/public_html/visitor/public/api/index.php on line 70
+[03-Nov-2014 06:10:48 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 06:11:13 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 06:11:35 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 06:13:34 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 07:11:36 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 07:15:08 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 07:18:22 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 13:52:42 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 14:20:12 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 14:22:42 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 16:25:29 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[03-Nov-2014 16:32:00 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netsetin/public_html/visitor/public/api/index.php on line 309
+[25-Nov-2014 10:23:05 Asia/Calcutta] PHP Fatal error:  Call to undefined function now() in /home/netsetin/public_html/visitor/public/api/index.php on line 203
+[25-Nov-2014 12:14:51 Asia/Calcutta] PHP Fatal error:  Call to undefined function now() in /home/netsetin/public_html/visitor/public/api/index.php on line 203
+[25-Nov-2014 14:33:54 Asia/Calcutta] PHP Fatal error:  Call to undefined function now() in /home/netsetin/public_html/visitor/public/api/index.php on line 203
+[25-Nov-2014 17:05:12 Asia/Calcutta] PHP Fatal error:  Call to undefined function now() in /home/netsetin/public_html/visitor/public/api/index.php on line 203
